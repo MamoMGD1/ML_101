@@ -117,7 +117,7 @@ ML_101 is an open-source educational project, and it grows stronger with communi
 Whether you’re fixing a typo, refining an explanation, adding examples, or contributing new notebooks, **your help is deeply appreciated**.  
 
 Check out our [Contributing Guide](./CONTRIBUTING.md) for full details on how to get started.  
-Together, let’s make ML_101 the most approachable and hands-on Machine Learning resource for curious minds 🚀  
+Together, let’s make ML_101 the most approachable and hands-on Machine Learning resource for curious minds.
 
 <div align="center">
 
