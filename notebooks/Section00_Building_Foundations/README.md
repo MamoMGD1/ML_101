@@ -25,9 +25,3 @@ At the heart of every ML model lies linear algebra. This chapter walks you throu
 Garbage in, garbage out — no ML algorithm can perform well with messy data. In this chapter, you’ll learn the essential preprocessing steps: handling missing values, scaling, encoding, and splitting datasets. This ensures that your data is clean, consistent, and ready to train powerful models.  
 
 [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section00_Building_Foundations/Chapter02_Data_Preprocessing.ipynb) [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section00_Building_Foundations/Chapter02_Data_Preprocessing.ipynb)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/footer.png" width="100%" style="border-radius:12px;"/>
-
-</div>
