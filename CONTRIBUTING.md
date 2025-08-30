@@ -1,6 +1,6 @@
-# 🤝 Contributing to ML_101
+# 🤝 Contributing to ML 101
 
-First off, thank you for considering contributing to **ML_101**!  
+First off, thank you for considering contributing to **ML 101**!  
 This project is built to **share Machine Learning knowledge** in a clear, practical, and open-source way. Contributions from the community help keep it alive, accurate, and inspiring.  
 
 ---
@@ -93,5 +93,5 @@ Please note that this project follows a **Code of Conduct**:
 
 ## 💡 Final Note
 
-Every contribution — big or small — makes ML\_101 better for learners around the world.
+Every contribution — big or small — makes ML 101 better for learners around the world.
 Thank you for helping us build an **open, accessible, and hands-on ML learning resource**! 🚀
