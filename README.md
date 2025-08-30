@@ -37,8 +37,6 @@ Open any section in **Google Colab** (badges are available in each sub-README).
 Welcome to your **AI learning journey**.  
 Think of this roadmap as a set of **chapters in a story** — each section unlocks new superpowers in Machine Learning.  
 
----
-
 <details>
 <summary><h3>📚 Section00 — Building Foundations</h3></summary>
 <em>Get your math & data skills ready</em>
@@ -50,8 +48,6 @@ Think of this roadmap as a set of **chapters in a story** — each section unloc
 
 <a href="./Section00_Building_Foundations/" style="text-decoration:none; font-weight:bold; color:#4285F4;">🚀 Open Section</a>
 </details>
-
----
 
 <details>
 <summary><h3>🤖 Section01 — Supervised Learning</h3></summary>
@@ -66,8 +62,6 @@ Think of this roadmap as a set of **chapters in a story** — each section unloc
 <a href="./Section01_Supervised_Learning/" style="text-decoration:none; font-weight:bold; color:#4285F4;">🚀 Open Section</a>
 </details>
 
----
-
 <details>
 <summary><h3>🧩 Section02 — Unsupervised Learning</h3></summary>
 <em>Find patterns and structure in unlabeled data</em>
@@ -78,8 +72,6 @@ Think of this roadmap as a set of **chapters in a story** — each section unloc
 
 <a href="./Section02_Unsupervised_Learning/" style="text-decoration:none; font-weight:bold; color:#4285F4;">🚀 Open Section</a>
 </details>
-
----
 
 <details>
 <summary><h3>🎯 Section03 — Reinforcement Learning</h3></summary>
@@ -92,8 +84,6 @@ Think of this roadmap as a set of **chapters in a story** — each section unloc
 <a href="./Section03_Reinforcement_Learning/" style="text-decoration:none; font-weight:bold; color:#4285F4;">🚀 Open Section</a>
 </details>
 
----
-
 <details>
 <summary><h3>🧠 Section04 — Neural Networks</h3></summary>
 <em>Learn the foundations of deep learning</em>
@@ -103,8 +93,6 @@ Think of this roadmap as a set of **chapters in a story** — each section unloc
 
 <a href="./Section04_Neural_Networks/" style="text-decoration:none; font-weight:bold; color:#4285F4;">🚀 Open Section</a>
 </details>
-
----
 
 <details>
 <summary><h3>📷 Section05 — Computer Vision</h3></summary>
@@ -118,18 +106,14 @@ Think of this roadmap as a set of **chapters in a story** — each section unloc
 <a href="./Section05_Computer_Vision/" style="text-decoration:none; font-weight:bold; color:#4285F4;">🚀 Open Section</a>
 </details>
 
----
-
 <details>
 <summary><h3>📝 Section06 — Natural Language Processing</h3></summary>
-<em>🚧 Coming soon — teaching machines to understand text</em>
+<em>🚧 Coming soon...</em>
 </details>
-
----
 
 <details>
 <summary><h3>⚡ Section07 — Contrastive Learning</h3></summary>
-<em>🚧 Coming soon — representation learning with contrast</em>
+<em>🚧 Coming soon...</em>
 </details>
 
 ---
