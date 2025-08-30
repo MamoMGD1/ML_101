@@ -12,7 +12,7 @@ Skipping these foundations is like building a skyscraper on sand — the whole s
 
 Understanding data begins with statistics. In this chapter, we’ll explore descriptive statistics, the language through which data speaks. Without this, you won’t know how to interpret model performance or validate results.  
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/ML_101/notebooks/Section00_Building_Foundations/Chapter00_Statistics_for_ML.ipynb) [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/ML_101/notebooks/Section00_Building_Foundations/Chapter00_Statistics_for_ML.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section00_Building_Foundations/Chapter00_Statistics_for_ML.ipynb) [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/Mamo_MGD1/ML_101/blob/main/notebooks/Section00_Building_Foundations/Chapter00_Statistics_for_ML.ipynb)
 
 ## 1️⃣ Linear Algebra  
 
