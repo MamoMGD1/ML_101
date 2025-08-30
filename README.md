@@ -1,5 +1,4 @@
-<div style='background-color: blue; width: 60px; height: 60px'>
-
+<div style="background-color: blue; width: 260px; height: 260px">
   The time is up
 </div>
 
