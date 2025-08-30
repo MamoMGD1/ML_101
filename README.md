@@ -11,19 +11,14 @@
 </div>
 
 ---
-## 🌟 Course Intro
 
-Whether you’ve arrived here from my [LinkedIn](https://www.linkedin.com/in/mamomgd1/) profile or stumbled upon this repository while exploring Machine Learning, you’re in the right place.  
+## 🌟 Course Introduction
 
-**ML_101** is a carefully curated, **open-source series of interactive notebooks** designed to share the knowledge I’ve gained through my journey into Machine Learning. My goal is simple: to provide curious minds with **hands-on, practical, and approachable material** that bridges theory and implementation.  
+**ML_101** is a carefully curated, **open-source series of interactive notebooks** designed to share the knowledge I’ve gained through my journey into Machine Learning. My goal is simple: to provide curious minds with **hands-on, practical, and approachable material** that bridges the gap between theory and implementation.  
 
-This repository is **still a work in progress** — I continually update it with new concepts, clearer explanations, and engaging projects. Every section is built to let you explore **core math foundations**, **machine learning basics**, **neural networks**, **deep learning architectures**, and real-world **projects and applications**, all in an integrated, step-by-step manner.  
-
-💡 If you’re eager to understand Machine Learning from the ground up, experiment with code, and build projects that reinforce your learning, ML_101 is your personal learning companion.  
+This repository is **still a work in progress** — I continually update it with new concepts, clearer explanations, and engaging projects. If you’re eager to understand Machine Learning from the ground up, experiment with code, and build projects that reinforce your learning, ML_101 is your personal learning companion.  
 
 > **Tip:** Each notebook is ready to run in **Google Colab**, so you can start learning without any setup, right from your browser.
-
-Dive in, explore, and let your curiosity guide your journey!
 
 ---
 
@@ -39,60 +34,124 @@ Open any section in **Google Colab** (badges are available in each sub-README).
 
 ---
 
-## 🛣️ Roadmap
+## 🛣️ Roadmap  
 
-Here’s the full learning path for **ML\_101**.
-Click on a section to expand and see the chapters it contains.
+Explore the full learning journey of **ML_101**. Each section is designed to take you from foundational concepts to hands-on projects. Click a section to expand its chapters and start learning!  
 
+<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+
+<!-- Section 00: Building Foundations -->
+<div style="border-radius:12px; background:#f0f4ff; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+<h3>📚 00 — Building Foundations</h3>
+<em>Get your math & data skills ready</em>
 <details>
-<summary><b>📐 Math Foundations</b> — <a href="./01_Math_Foundations/">Go to Section</a></summary>
-
-* Linear Algebra Essentials
-* Probability & Statistics Basics
-* Calculus for Machine Learning
-* Optimization Foundations
-
+<summary>Chapters</summary>
+<ul>
+<li>00 — Statistics for ML</li>
+<li>01 — Linear Algebra</li>
+<li>02 — Data Preprocessing</li>
+</ul>
 </details>
+<a href="./00_Building_Foundations/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
+</div>
 
+<!-- Section 01: Supervised Learning -->
+<div style="border-radius:12px; background:#fff4f0; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+<h3>🤖 01 — Supervised Learning</h3>
+<em>Learn regression, classification & ensembles</em>
 <details>
-<summary><b>🤖 Machine Learning Basics</b> — <a href="./02_ML_Basics/">Go to Section</a></summary>
-
-* Introduction to ML
-* Supervised vs Unsupervised
-* Loss Functions & Metrics
-* Training & Evaluation
-
+<summary>Chapters</summary>
+<ul>
+<li>00 — Regression</li>
+<li>01 — Classification</li>
+<li>02 — K-Nearest Neighbors</li>
+<li>03 — Ensemble Learning</li>
+</ul>
 </details>
+<a href="./01_Supervised_Learning/" style="text-decoration:none; font-weight:bold; color:#F4511E;">Open Section</a>
+</div>
 
+<!-- Section 02: Unsupervised Learning -->
+<div style="border-radius:12px; background:#f0fff4; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+<h3>🧩 02 — Unsupervised Learning</h3>
+<em>Discover patterns without labels</em>
 <details>
-<summary><b>🧠 Neural Networks</b> — <a href="./03_Neural_Networks/">Go to Section</a></summary>
-
-* Perceptrons & MLPs
-* Backpropagation
-* Activation Functions
-* Regularization
-
+<summary>Chapters</summary>
+<ul>
+<li>00 — Clustering</li>
+<li>01 — Dimensionality Reduction</li>
+</ul>
 </details>
+<a href="./02_Unsupervised_Learning/" style="text-decoration:none; font-weight:bold; color:#43A047;">Open Section</a>
+</div>
 
+<!-- Section 03: Reinforcement Learning -->
+<div style="border-radius:12px; background:#fff0f4; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+<h3>🎯 03 — Reinforcement Learning</h3>
+<em>Train agents with rewards</em>
 <details>
-<summary><b>⚡ Deep Learning & Architectures</b> — <a href="./04_Deep_Learning/">Go to Section</a></summary>
-
-* CNNs
-* RNNs & LSTMs
-* Transformers
-* Modern Architectures
-
+<summary>Chapters</summary>
+<ul>
+<li>00 — Monte Carlo Methods</li>
+<li>01 — Q-Learning</li>
+</ul>
 </details>
+<a href="./03_Reinforcement_Learning/" style="text-decoration:none; font-weight:bold; color:#D81B60;">Open Section</a>
+</div>
 
+<!-- Section 04: Neural Networks -->
+<div style="border-radius:12px; background:#f0f0ff; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+<h3>🧠 04 — Neural Networks</h3>
+<em>Master the fundamentals of deep learning</em>
 <details>
-<summary><b>🛠️ Projects & Applications</b> — <a href="./05_Projects/">Go to Section</a></summary>
-
-* Image Classification
-* Text Classification
-* NLP Pipelines
-* Mini-Capstone Projects
-
+<summary>Chapters</summary>
+<ul>
+<li>00 — Neural Networks</li>
+</ul>
 </details>
+<a href="./04_Neural_Networks/" style="text-decoration:none; font-weight:bold; color:#5E35B1;">Open Section</a>
+</div>
+
+<!-- Section 05: Computer Vision -->
+<div style="border-radius:12px; background:#fffaf0; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+<h3>📷 05 — Computer Vision</h3>
+<em>Build visual intelligence</em>
+<details>
+<summary>Chapters</summary>
+<ul>
+<li>00 — Convolutional Neural Networks</li>
+<li>01 — Deep CNN Architectures</li>
+<li>02 — Autoencoders</li>
+</ul>
+</details>
+<a href="./05_Computer_Vision/" style="text-decoration:none; font-weight:bold; color:#FB8C00;">Open Section</a>
+</div>
+
+<!-- Section 06: NLP -->
+<div style="border-radius:12px; background:#f0fff8; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+<h3>📝 06 — Natural Language Processing</h3>
+<em>🚧 Coming Soon</em>
+<details>
+<summary>Chapters</summary>
+<ul>
+<li>00 — TBD</li>
+</ul>
+</details>
+</div>
+
+<!-- Section 07: Contrastive Learning -->
+<div style="border-radius:12px; background:#fff8f0; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+<h3>⚡ 07 — Contrastive Learning</h3>
+<em>🚧 Coming Soon</em>
+<details>
+<summary>Chapters</summary>
+<ul>
+<li>00 — TBD</li>
+</ul>
+</details>
+</div>
+
+</div>
 
 ---
 
