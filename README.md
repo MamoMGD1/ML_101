@@ -37,18 +37,18 @@ Open any section in **Google Colab** (badges are available in each sub-README).
 Your **AI learning journey** starts here. Each section is a milestone, packed with lessons and hands-on practice.  
 
 <details>
-<summary><h3>📚 Section00 — Building Foundations &nbsp;</h3></summary>
+<summary><h3>Section00 — Building Foundations</h3></summary>
 <em>Get your math & data skills ready</em>
 
 - 0️⃣ Statistics for ML  
 - 1️⃣ Linear Algebra  
 - 2️⃣ Data Preprocessing  
 
+<a href="./Section00_Building_Foundations/"><img src="https://img.shields.io/badge/Section00-Open-4285F4?logo=googleearthengine"></a>
 </details>
- <a href="./Section00_Building_Foundations/"><img src="https://img.shields.io/badge/Open-Section00-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a>
- 
+
 <details>
-<summary><h3>🤖 Section01 — Supervised Learning &nbsp; <a href="./Section01_Supervised_Learning/"><img src="https://img.shields.io/badge/Open-Section01-34A853?style=flat-square&logo=jupyter&logoColor=white"></a></h3></summary>
+<summary><h3>Section01 — Supervised Learning</h3></summary>
 <em>Learn how to predict outcomes from labeled data</em>
 
 - 0️⃣ Regression  
@@ -56,52 +56,61 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 2️⃣ K-Nearest Neighbors  
 - 3️⃣ Ensemble Learning  
 
+<a href="./Section01_Supervised_Learning/"><img src="https://img.shields.io/badge/Section01-Open-261C29?logo=matternet"></a>
 </details>
 
 <details>
-<summary><h3>🧩 Section02 — Unsupervised Learning &nbsp; <a href="./Section02_Unsupervised_Learning/"><img src="https://img.shields.io/badge/Open-Section02-F9AB00?style=flat-square&logo=python&logoColor=white"></a></h3></summary>
+<summary><h3>Section02 — Unsupervised Learning</h3></summary>
 <em>Find patterns and structure in unlabeled data</em>
 
 - 0️⃣ Clustering  
 - 1️⃣ Dimensionality Reduction  
 
+<a href="./Section02_Unsupervised_Learning/"><img src="https://img.shields.io/badge/Section02-Open-F9AB00?style=flat-square&logo=python"></a>
 </details>
 
 <details>
-<summary><h3>🎯 Section03 — Reinforcement Learning &nbsp; <a href="./Section03_Reinforcement_Learning/"><img src="https://img.shields.io/badge/Open-Section03-FF5252?style=flat-square&logo=gamepad&logoColor=white"></a></h3></summary>
+<summary><h3>Section03 — Reinforcement Learning</h3></summary>
 <em>Train agents through rewards & decision making</em>
 
 - 0️⃣ Monte Carlo  
 - 1️⃣ Q-Learning  
 
+<a href="./Section03_Reinforcement_Learning/"><img src="https://img.shields.io/badge/Section03-Open-FF5252?style=flat-square&logo=gamepad"></a>
 </details>
 
 <details>
-<summary><h3>🧠 Section04 — Neural Networks &nbsp; <a href="./Section04_Neural_Networks/"><img src="https://img.shields.io/badge/Open-Section04-9C27B0?style=flat-square&logo=tensorflow&logoColor=white"></a></h3></summary>
+<summary><h3>Section04 — Neural Networks</h3></summary>
 <em>Learn the foundations of deep learning</em>
 
 - 0️⃣ Neural Networks  
 
+<a href="./Section04_Neural_Networks/"><img src="https://img.shields.io/badge/Section04-Open-9C27B0?style=flat-square&logo=tensorflow"></a>
 </details>
 
 <details>
-<summary><h3>📷 Section05 — Computer Vision &nbsp; <a href="./Section05_Computer_Vision/"><img src="https://img.shields.io/badge/Open-Section05-4285F4?style=flat-square&logo=opencv&logoColor=white"></a></h3></summary>
+<summary><h3>Section05 — Computer Vision</h3></summary>
 <em>Make machines see with CNNs and beyond</em>
 
 - 0️⃣ Convolutional Neural Networks  
 - 1️⃣ Deep CNN Architectures  
 - 2️⃣ Autoencoders  
 
+<a href="./Section05_Computer_Vision/"><img src="https://img.shields.io/badge/Section05-Open-4285F4?style=flat-square&logo=opencv"></a>
 </details>
 
 <details>
-<summary><h3>📝 Section06 — Natural Language Processing &nbsp; <img src="https://img.shields.io/badge/Coming_Soon-Section06-lightgrey?style=flat-square"></h3></summary>
+<summary><h3>Section06 — Natural Language Processing</h3></summary>
 <em>🚧 Coming soon — teaching machines to understand text</em>
+
+<img src="https://img.shields.io/badge/Section06-Coming_Soon-lightgrey?style=flat-square">
 </details>
 
 <details>
-<summary><h3>⚡ Section07 — Contrastive Learning &nbsp; <img src="https://img.shields.io/badge/Coming_Soon-Section07-lightgrey?style=flat-square"></h3></summary>
+<summary><h3>Section07 — Contrastive Learning</h3></summary>
 <em>🚧 Coming soon — representation learning with contrast</em>
+
+<img src="https://img.shields.io/badge/Section07-Coming_Soon-lightgrey?style=flat-square">
 </details>
 
 ---
