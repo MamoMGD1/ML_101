@@ -38,8 +38,6 @@ Open any section in **Google Colab** (badges are available in each sub-README).
 
 Explore the full learning journey of **ML_101**. Each section is designed to take you from foundational concepts to hands-on projects. Click a section to expand its chapters and start learning!  
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-
 <!-- Section 00: Building Foundations -->
 <div style="border-radius:12px; background:#f0f4ff; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 <h3>📚 00 — Building Foundations</h3>
@@ -149,8 +147,6 @@ Explore the full learning journey of **ML_101**. Each section is designed to tak
 <li>00 — TBD</li>
 </ul>
 </details>
-</div>
-
 </div>
 
 ---
