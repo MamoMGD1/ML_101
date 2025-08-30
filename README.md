@@ -41,7 +41,7 @@ Explore the full learning journey of **ML_101**. Each section is designed to tak
 <!-- Section 00: Building Foundations -->
 <div style="border-radius:12px; background:#f0f4ff; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 <details>
-<summary><strong>📚 Section00 — Building Foundations</strong></summary>
+<summary><h4>📚 Section00 — Building Foundations</h4></summary>
 <em>Get your math & data skills ready</em>
 <ul>
 <li>Chapter00 — Statistics for ML</li>
