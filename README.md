@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 🌟 Course Introduction
 
 **ML_101** is a carefully curated, **open-source series of interactive notebooks** designed to share the knowledge I’ve gained through my journey into Machine Learning. My goal is simple: to provide curious minds with **hands-on, practical, and approachable material** that bridges the gap between theory and implementation.  
