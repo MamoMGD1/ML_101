@@ -12,9 +12,9 @@
 
 ## 🌟 Course Introduction
 
-**ML_101** is a carefully curated, **open-source series of interactive notebooks** designed to share the knowledge I’ve gained through my journey into Machine Learning. My goal is simple: to provide curious minds with **hands-on, practical, and approachable material** that bridges the gap between theory and implementation.  
+**ML 101** is a carefully curated, **open-source series of interactive notebooks** designed to share the knowledge I’ve gained through my journey into Machine Learning. My goal is simple: to provide curious minds with **hands-on, practical, and approachable material** that bridges the gap between theory and implementation.  
 
-This repository is **still a work in progress** — I continually update it with new concepts, clearer explanations, and engaging projects. If you’re eager to understand Machine Learning from the ground up, experiment with code, and build projects that reinforce your learning, ML_101 is your personal learning companion.  
+This repository is **still a work in progress** — I continually update it with new concepts, clearer explanations, and engaging projects. If you’re eager to understand Machine Learning from the ground up, experiment with code, and build projects that reinforce your learning, ML 101 is your personal learning companion.  
 
 > **Tip:** Each notebook is ready to run in **Google Colab**, so you can start learning without any setup, right from your browser.
 
@@ -124,11 +124,11 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 
 ## 🤝 Contributing
 
-ML_101 is an open-source educational project, and it grows stronger with community input.  
+ML 101 is an open-source educational project, and it grows stronger with community input.  
 Whether you’re fixing a typo, refining an explanation, adding examples, or contributing new notebooks, **your help is deeply appreciated**.  
 
 Check out our [Contributing Guide](./CONTRIBUTING.md) for full details on how to get started.  
-Together, let’s make ML_101 the most approachable and hands-on Machine Learning resource for curious minds.
+Together, let’s make ML 101 the most approachable and hands-on Machine Learning resource for curious minds.
 
 <div align="center">
 
