@@ -77,7 +77,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 1️⃣ Q-Learning  
 </details>
 
-<a href="./Section03_Reinforcement_Learning/"><img src="https://img.shields.io/badge/Section03-Open-FF5252?style=flat-square&logo=gamepad"></a>
+<a href="./Section03_Reinforcement_Learning/"><img src="https://img.shields.io/badge/Section03-Open-81B64C?logo=chess.com"></a>
 
 <details>
 <summary><h3>Section04 — Neural Networks</h3></summary>
@@ -104,7 +104,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 <em>🚧 Coming soon — teaching machines to understand text</em>
 </details>
 
-<img src="https://img.shields.io/badge/Section06-Coming_Soon-lightgrey?style=flat-square">
+<img src="https://img.shields.io/badge/Section06-Coming_Soon-EA4C89?logo=immersivetranslate">
 
 <details>
 <summary><h3>Section07 — Contrastive Learning</h3></summary>
