@@ -50,7 +50,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>🤖 Section01 — Supervised Learning</strong></summary>
-<ol start="0" style="margin-top: 10px">
+<ol start="0">
 <li>Regression</li>
 <li>Classification</li>
 <li>K-Nearest Neighbors</li>
