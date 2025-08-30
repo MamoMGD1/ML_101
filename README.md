@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/header.png" style="width: 1vw;">
+  <img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/header.png" style="width: 100vw;">
 </div>
 
 <div style="background-color:#0d1117; padding:30px; border-radius:12px;">
