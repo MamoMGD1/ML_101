@@ -65,9 +65,9 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 
 - 0️⃣ Clustering  
 - 1️⃣ Dimensionality Reduction  
-
-<a href="./Section02_Unsupervised_Learning/"><img src="https://img.shields.io/badge/Section02-Open-?logo=python"></a>
 </details>
+
+<a href="./Section02_Unsupervised_Learning/"><img src="https://img.shields.io/badge/Section02-Open-FFFFFF?logo=thestorygraph"></a>
 
 <details>
 <summary><h3>Section03 — Reinforcement Learning</h3></summary>
@@ -75,18 +75,18 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 
 - 0️⃣ Monte Carlo  
 - 1️⃣ Q-Learning  
+</details>
 
 <a href="./Section03_Reinforcement_Learning/"><img src="https://img.shields.io/badge/Section03-Open-FF5252?style=flat-square&logo=gamepad"></a>
-</details>
 
 <details>
 <summary><h3>Section04 — Neural Networks</h3></summary>
 <em>Learn the foundations of deep learning</em>
 
 - 0️⃣ Neural Networks  
-
-<a href="./Section04_Neural_Networks/"><img src="https://img.shields.io/badge/Section04-Open-000000?logo=actix"></a>
 </details>
+
+<a href="./Section04_Neural_Networks/"><img src="https://img.shields.io/badge/Section04-Open-0F2B46?logo=deepl"></a>
 
 <details>
 <summary><h3>Section05 — Computer Vision</h3></summary>
@@ -95,23 +95,23 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 0️⃣ Convolutional Neural Networks  
 - 1️⃣ Deep CNN Architectures  
 - 2️⃣ Autoencoders  
-
-<a href="./Section05_Computer_Vision/"><img src="https://img.shields.io/badge/Section05-Open-000000?logo=outline"></a>
 </details>
+
+<a href="./Section05_Computer_Vision/"><img src="https://img.shields.io/badge/Section05-Open-007ACC?logo=ariakit"></a>
 
 <details>
 <summary><h3>Section06 — Natural Language Processing</h3></summary>
 <em>🚧 Coming soon — teaching machines to understand text</em>
+</details>
 
 <img src="https://img.shields.io/badge/Section06-Coming_Soon-lightgrey?style=flat-square">
-</details>
 
 <details>
 <summary><h3>Section07 — Contrastive Learning</h3></summary>
 <em>🚧 Coming soon — representation learning with contrast</em>
+</details>
 
 <img src="https://img.shields.io/badge/Section07-Coming_Soon-lightgrey?style=flat-square">
-</details>
 
 ---
 
