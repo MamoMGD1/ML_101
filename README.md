@@ -6,7 +6,7 @@
 
 [![Colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab&logoColor=F9AB00)](https://colab.research.google.com/github/MamoMGD1/ML_101)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE.md)
-[![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](#-contributing)
+[![Roadmap](https://img.shields.io/badge/Roadmap-Scroll-brightgreen.svg?style=plastic)](#-Roadmap)
 
 </div>
 
