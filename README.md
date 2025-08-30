@@ -34,12 +34,12 @@ Open any section in **Google Colab** (badges are available in each sub-README).
 
 ---
 
-## 🛣️ Roadmap  
+## 🛣️ Roadmap
 
-Explore the full learning journey of **ML_101**. Each section is designed to take you from foundational concepts to hands-on projects. Click a section to expand its chapters and start learning!  
+Here’s the full learning path for **ML_101**. Click a section to expand and see the chapters it contains.
 
-<!-- Section 00: Building Foundations -->
-<div style="border-radius:12px; background:#f0f4ff; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+
 <details>
 <summary><h3>📚 Section00 — Building Foundations</h3></summary>
 <em>Get your math & data skills ready</em>
@@ -50,102 +50,77 @@ Explore the full learning journey of **ML_101**. Each section is designed to tak
 </ol>
 <a href="./Section00_Building_Foundations/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
-</div>
 
-<!-- Section 01: Supervised Learning -->
-<div style="border-radius:12px; background:#fff4f0; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-<h3>🤖 01 — Supervised Learning</h3>
-<em>Learn regression, classification & ensembles</em>
 <details>
-<summary>Chapters</summary>
-<ul>
-<li>00 — Regression</li>
-<li>01 — Classification</li>
-<li>02 — K-Nearest Neighbors</li>
-<li>03 — Ensemble Learning</li>
-</ul>
+<summary><h3>🤖 Section01 — Supervised Learning</h3></summary>
+<em>Learn regression, classification & practical algorithms</em>
+<ol>
+<li>Regression</li>
+<li>Classification</li>
+<li>K-Nearest Neighbors</li>
+<li>Ensemble Learning</li>
+</ol>
+<a href="./Section01_Supervised_Learning/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
-<a href="./01_Supervised_Learning/" style="text-decoration:none; font-weight:bold; color:#F4511E;">Open Section</a>
-</div>
 
-<!-- Section 02: Unsupervised Learning -->
-<div style="border-radius:12px; background:#f0fff4; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-<h3>🧩 02 — Unsupervised Learning</h3>
-<em>Discover patterns without labels</em>
 <details>
-<summary>Chapters</summary>
-<ul>
-<li>00 — Clustering</li>
-<li>01 — Dimensionality Reduction</li>
-</ul>
+<summary><h3>🧩 Section02 — Unsupervised Learning</h3></summary>
+<em>Discover structure in unlabeled data</em>
+<ol>
+<li>Clustering</li>
+<li>Dimensionality Reduction</li>
+</ol>
+<a href="./Section02_Unsupervised_Learning/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
-<a href="./02_Unsupervised_Learning/" style="text-decoration:none; font-weight:bold; color:#43A047;">Open Section</a>
-</div>
 
-<!-- Section 03: Reinforcement Learning -->
-<div style="border-radius:12px; background:#fff0f4; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-<h3>🎯 03 — Reinforcement Learning</h3>
-<em>Train agents with rewards</em>
 <details>
-<summary>Chapters</summary>
-<ul>
-<li>00 — Monte Carlo Methods</li>
-<li>01 — Q-Learning</li>
-</ul>
+<summary><h3>🎯 Section03 — Reinforcement Learning</h3></summary>
+<em>Train agents with reward-driven learning</em>
+<ol>
+<li>Monte Carlo</li>
+<li>Q-Learning</li>
+</ol>
+<a href="./Section03_Reinforcement_Learning/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
-<a href="./03_Reinforcement_Learning/" style="text-decoration:none; font-weight:bold; color:#D81B60;">Open Section</a>
-</div>
 
-<!-- Section 04: Neural Networks -->
-<div style="border-radius:12px; background:#f0f0ff; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-<h3>🧠 04 — Neural Networks</h3>
-<em>Master the fundamentals of deep learning</em>
 <details>
-<summary>Chapters</summary>
-<ul>
-<li>00 — Neural Networks</li>
-</ul>
+<summary><h3>🧠 Section04 — Neural Networks</h3></summary>
+<em>Fundamentals and training of neural networks</em>
+<ol>
+<li>Neural Networks</li>
+</ol>
+<a href="./Section04_Neural_Networks/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
-<a href="./04_Neural_Networks/" style="text-decoration:none; font-weight:bold; color:#5E35B1;">Open Section</a>
-</div>
 
-<!-- Section 05: Computer Vision -->
-<div style="border-radius:12px; background:#fffaf0; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-<h3>📷 05 — Computer Vision</h3>
-<em>Build visual intelligence</em>
 <details>
-<summary>Chapters</summary>
-<ul>
-<li>00 — Convolutional Neural Networks</li>
-<li>01 — Deep CNN Architectures</li>
-<li>02 — Autoencoders</li>
-</ul>
+<summary><h3>📷 Section05 — Computer Vision</h3></summary>
+<em>Visual learning: CNNs, architectures & autoencoders</em>
+<ol>
+<li>Convolutional Neural Networks</li>
+<li>Deep CNN Architectures</li>
+<li>Autoencoders</li>
+</ol>
+<a href="./Section05_Computer_Vision/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
-<a href="./05_Computer_Vision/" style="text-decoration:none; font-weight:bold; color:#FB8C00;">Open Section</a>
-</div>
 
-<!-- Section 06: NLP -->
-<div style="border-radius:12px; background:#f0fff8; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-<h3>📝 06 — Natural Language Processing</h3>
-<em>🚧 Coming Soon</em>
 <details>
-<summary>Chapters</summary>
-<ul>
-<li>00 — TBD</li>
-</ul>
+<summary><h3>📝 Section06 — Natural Language Processing</h3></summary>
+<em>🚧 Coming soon — Natural Language Processing (work in progress)</em>
+<ol>
+<li>Not yet implemented</li>
+</ol>
+<a href="./Section06_Natural_Language_Processing/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
-</div>
 
-<!-- Section 07: Contrastive Learning -->
-<div style="border-radius:12px; background:#fff8f0; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-<h3>⚡ 07 — Contrastive Learning</h3>
-<em>🚧 Coming Soon</em>
 <details>
-<summary>Chapters</summary>
-<ul>
-<li>00 — TBD</li>
-</ul>
+<summary><h3>⚡ Section07 — Contrastive Learning</h3></summary>
+<em>🚧 Coming soon — Contrastive Learning (work in progress)</em>
+<ol>
+<li>Not yet implemented</li>
+</ol>
+<a href="./Section07_Contrastive_Learning/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
+
 </div>
 
 ---
