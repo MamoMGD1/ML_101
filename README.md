@@ -40,7 +40,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>📚 Section00 — Building Foundations</strong></summary>
-<ol>
+<ol start="0">
 <li>Statistics for ML</li>
 <li>Linear Algebra</li>
 <li>Data Preprocessing</li>
@@ -50,7 +50,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>🤖 Section01 — Supervised Learning</strong></summary>
-<ol>
+<ol start="0">
 <li>Regression</li>
 <li>Classification</li>
 <li>K-Nearest Neighbors</li>
@@ -70,7 +70,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>🎯 Section03 — Reinforcement Learning</strong></summary>
-<ol>
+<ol start="0">
 <li>Monte Carlo</li>
 <li>Q-Learning</li>
 </ol>
@@ -79,7 +79,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>🧠 Section04 — Neural Networks</strong></summary>
-<ol>
+<ol start="0">
 <li>Neural Networks</li>
 </ol>
 <a href="./Section04_Neural_Networks/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
@@ -87,7 +87,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>📷 Section05 — Computer Vision</strong></summary>
-<ol>
+<ol start="0">
 <li>Convolutional Neural Networks</li>
 <li>Deep CNN Architectures</li>
 <li>Autoencoders</li>
@@ -97,7 +97,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>📝 Section06 — Natural Language Processing</strong></summary>
-<ol>
+<ol start="0">
 <li>Not yet implemented</li>
 </ol>
 <a href="./Section06_Natural_Language_Processing/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
@@ -105,7 +105,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>⚡ Section07 — Contrastive Learning</strong></summary>
-<ol>
+<ol start="0">
 <li>Not yet implemented</li>
 </ol>
 <a href="./Section07_Contrastive_Learning/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
