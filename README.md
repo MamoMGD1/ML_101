@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/header.png" width="100%" style="border-radius:12px;"/>
 
-<h4 style="color:#999">An integrated series of open-source ML notebooks with code</h4>
+<h3 style="color:#999">An integrated series of open-source ML notebooks with code</h3>
 
-[![Colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab&logoColor=yellow)](https://colab.research.google.com/github/MamoMGD1/ML_101)
+[![Colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab&logoColor=F9AB00)](https://colab.research.google.com/github/MamoMGD1/ML_101)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE.md)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](#-contributing)
 
