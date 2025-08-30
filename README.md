@@ -2,13 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/header.png" width="100%" style="border-radius:12px;"/>
 
----
+<h4 style="color:#999">An integrated series of open-source ML notebooks with code</h4>
 
-# 📘 ML_101 — Open Learning Journey
-<h4 style="color:#999">Math-first, beginner-friendly, open to contributions</h4>
-
-[![colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/MamoMGD1/ML_101)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![Colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab&logoColor=yellow)](https://colab.research.google.com/github/MamoMGD1/ML_101)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#-contributing)
 
 </div>
