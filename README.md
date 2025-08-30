@@ -5,8 +5,8 @@
 <h3 style="color:#999">An integrated series of open-source ML notebooks with code</h3>
 
 [![Colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab&logoColor=F9AB00)](https://colab.research.google.com/github/MamoMGD1/ML_101)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE.md)
-[![Roadmap](https://img.shields.io/badge/Roadmap-Scroll-brightgreen.svg)](##-Roadmap)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?logo=opensourceinitiative&logoColor=white)](./LICENSE.md)
+[![Roadmap](https://img.shields.io/badge/Roadmap-Scroll-brightgreen.svg?logo=mapbox&logoColor=white)](#roadmap)
 
 </div>
 
