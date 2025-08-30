@@ -38,8 +38,6 @@ Open any section in **Google Colab** (badges are available in each sub-README).
 
 Here’s the full learning path for **ML_101**. Click a section to expand and see the chapters it contains.
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-
 <details>
 <summary><h3>📚 Section00 — Building Foundations</h3></summary>
 <em>Get your math & data skills ready</em>
@@ -120,8 +118,6 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 </ol>
 <a href="./Section07_Contrastive_Learning/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
-
-</div>
 
 ---
 
