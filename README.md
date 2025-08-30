@@ -121,6 +121,6 @@ Together, let’s make ML_101 the most approachable and hands-on Machine Learnin
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/footer.png" width="100%" style="border-radius:12px;"/>
+<img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/foote.png" width="100%" style="border-radius:12px;"/>
 
 </div>
