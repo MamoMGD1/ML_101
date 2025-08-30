@@ -61,7 +61,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>🧩 Section02 — Unsupervised Learning</strong></summary>
-<ol>
+<ol start="0">
 <li>Clustering</li>
 <li>Dimensionality Reduction</li>
 </ol>
