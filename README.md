@@ -45,7 +45,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 2️⃣ Data Preprocessing  
 </details>
 
-<a href="./Section00_Building_Foundations/"><img src="https://img.shields.io/badge/Section00-Open-4285F4?logo=googleearthengine&logoColor=4285F4"></a>
+<a href="./notebooks/Section00_Building_Foundations/"><img src="https://img.shields.io/badge/Section00-Open-4285F4?logo=googleearthengine&logoColor=4285F4"></a>
 
 <details>
 <summary><h3>Section01 — Supervised Learning</h3></summary>
