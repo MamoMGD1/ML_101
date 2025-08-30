@@ -4,7 +4,7 @@
 
 <h4 style="color:#999">An integrated series of open-source ML notebooks with code</h4>
 
-[![Colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab&logoColor=yellow)](https://colab.research.google.com/github/MamoMGD1/ML_101)
+[![Colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#-contributing)
 
