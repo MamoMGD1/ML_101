@@ -11,6 +11,21 @@
 </div>
 
 ---
+## 🌟 Course Intro
+
+Whether you’ve arrived here from my [LinkedIn](https://www.linkedin.com/in/mamomgd1/) profile or stumbled upon this repository while exploring Machine Learning, you’re in the right place.  
+
+**ML_101** is a carefully curated, **open-source series of interactive notebooks** designed to share the knowledge I’ve gained through my journey into Machine Learning. My goal is simple: to provide curious minds with **hands-on, practical, and approachable material** that bridges theory and implementation.  
+
+This repository is **still a work in progress** — I continually update it with new concepts, clearer explanations, and engaging projects. Every section is built to let you explore **core math foundations**, **machine learning basics**, **neural networks**, **deep learning architectures**, and real-world **projects and applications**, all in an integrated, step-by-step manner.  
+
+💡 If you’re eager to understand Machine Learning from the ground up, experiment with code, and build projects that reinforce your learning, ML_101 is your personal learning companion.  
+
+> **Tip:** Each notebook is ready to run in **Google Colab**, so you can start learning without any setup, right from your browser.
+
+Dive in, explore, and let your curiosity guide your journey!
+
+---
 
 ## ⚡ Quick Start  
 
