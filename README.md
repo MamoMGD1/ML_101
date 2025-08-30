@@ -115,16 +115,21 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 ## 🤝 Contributing
 
-We ❤️ contributions! You can help by:
+ML_101 is an open-source educational project, and it grows stronger with community input.  
+Whether you’re fixing a typo, refining an explanation, adding examples, or contributing new notebooks, **your help is deeply appreciated**.  
 
-* Fixing typos, grammar, or explanations
-* Adding intuitive illustrations or examples
-* Extending exercises or project ideas
+Here are a few ways you can contribute:  
 
-Check out the [Contributing Guide](./CONTRIBUTING.md) for more details.
+- 📝 **Improve documentation** — fix typos, grammar, or phrasing for clarity.  
+- 🎨 **Add illustrations or visual aids** — diagrams, plots, or intuitive explanations.  
+- 💡 **Enhance content** — extend exercises, provide alternative approaches, or share project ideas.  
+- 🧑‍💻 **Code contributions** — bug fixes, optimizations, or adding new ML techniques.  
+
+Check out our [Contributing Guide](./CONTRIBUTING.md) for full details on how to get started.  
+Together, let’s make ML_101 the most approachable and hands-on Machine Learning resource for curious minds 🚀  
 
 ---
 
 <footer align="center" style="margin-top:30px; font-size:13px; color:#666;">
-Built with ❤️ by the community | Open Source Forever 🌍  
+Built with ❤️ by Mohammad Mohammadi | Open Source Forever 🌍  
 </footer>
