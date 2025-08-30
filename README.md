@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/header.png" width="100%" style="border-radius:12px;"/>
 
-<h3 style="color:#999">An integrated series of open-source ML notebooks with code</h3>
+<div><h3 style="color:#999">An integrated series of open-source ML notebooks with code</h3></div>
 
 [![Colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg?logo=opensourcehardware&logoColor=brightgreen)](./LICENSE.md)
