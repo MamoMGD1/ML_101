@@ -1,4 +1,4 @@
-# 📚 Section00 — Building Foundations  
+# Section00 — Building Foundations  
 
 ## 📝 Section Review  
 
@@ -10,12 +10,10 @@ Skipping these foundations is like building a skyscraper on sand — the whole s
 
 ## 0️⃣ Statistics for ML  
 
-Understanding data begins with statistics. In this chapter, we’ll explore descriptive and inferential statistics, probability distributions, and hypothesis testing — the language through which data speaks. Without this, you won’t know how to interpret model performance or validate results.  
+Understanding data begins with statistics. In this chapter, we’ll explore descriptive statistics, the language through which data speaks. Without this, you won’t know how to interpret model performance or validate results.  
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/your-repo/Section00_Building_Foundations/Statistics_for_ML.ipynb)  
-[![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/your-repo/Section00_Building_Foundations/Statistics_for_ML.ipynb)  
-
----
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/ML_101/Section00_Building_Foundations/Chapter00_Statistics_for_ML.ipynb)  
+[![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=[https://github.com/your-repo/Section00_Building_Foundations/Statistics_for_ML.ipynb](https://colab.research.google.com/github/ML_101/Section00_Building_Foundations/Chapter00_Statistics_for_ML.ipynb)  
 
 ## 1️⃣ Linear Algebra  
 
@@ -23,8 +21,6 @@ At the heart of every ML model lies linear algebra. This chapter walks you throu
 
 [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/your-repo/Section00_Building_Foundations/Linear_Algebra.ipynb)  
 [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/your-repo/Section00_Building_Foundations/Linear_Algebra.ipynb)  
-
----
 
 ## 2️⃣ Data Preprocessing  
 
