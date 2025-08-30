@@ -40,7 +40,6 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>📚 Section00 — Building Foundations</strong></summary>
-<p>Get your math & data skills ready</p>
 <ol>
 <li>Statistics for ML</li>
 <li>Linear Algebra</li>
@@ -51,7 +50,6 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 
 <details>
 <summary><strong>🤖 Section01 — Supervised Learning</strong></summary>
-<p>Learn regression, classification & practical algorithms</p>
 <ol>
 <li>Regression</li>
 <li>Classification</li>
@@ -62,8 +60,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 </details>
 
 <details>
-<summary><h3>🧩 Section02 — Unsupervised Learning</h3></summary>
-<em>Discover structure in unlabeled data</em>
+<summary><strong>🧩 Section02 — Unsupervised Learning</strong></summary>
 <ol>
 <li>Clustering</li>
 <li>Dimensionality Reduction</li>
@@ -72,8 +69,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 </details>
 
 <details>
-<summary><h3>🎯 Section03 — Reinforcement Learning</h3></summary>
-<em>Train agents with reward-driven learning</em>
+<summary><strong>🎯 Section03 — Reinforcement Learning</strong></summary>
 <ol>
 <li>Monte Carlo</li>
 <li>Q-Learning</li>
@@ -82,8 +78,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 </details>
 
 <details>
-<summary><h3>🧠 Section04 — Neural Networks</h3></summary>
-<em>Fundamentals and training of neural networks</em>
+<summary><strong>🧠 Section04 — Neural Networks</strong></summary>
 <ol>
 <li>Neural Networks</li>
 </ol>
@@ -91,8 +86,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 </details>
 
 <details>
-<summary><h3>📷 Section05 — Computer Vision</h3></summary>
-<em>Visual learning: CNNs, architectures & autoencoders</em>
+<summary><strong>📷 Section05 — Computer Vision</strong></summary>
 <ol>
 <li>Convolutional Neural Networks</li>
 <li>Deep CNN Architectures</li>
@@ -102,8 +96,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 </details>
 
 <details>
-<summary><h3>📝 Section06 — Natural Language Processing</h3></summary>
-<em>🚧 Coming soon — Natural Language Processing (work in progress)</em>
+<summary><strong>📝 Section06 — Natural Language Processing</strong></summary>
 <ol>
 <li>Not yet implemented</li>
 </ol>
@@ -111,8 +104,7 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 </details>
 
 <details>
-<summary><h3>⚡ Section07 — Contrastive Learning</h3></summary>
-<em>🚧 Coming soon — Contrastive Learning (work in progress)</em>
+<summary><strong>⚡ Section07 — Contrastive Learning</strong></summary>
 <ol>
 <li>Not yet implemented</li>
 </ol>
