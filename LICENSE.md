@@ -34,4 +34,4 @@ OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 🔗 Inspired by and motivated through the *Introduction to Machine Learning* course at  
-Sharif University of Technology, instructed by [Dr. Ali Sharifi Zarchi](https://www.sharifml.ir/).
+[Sharif University of Technology](https://www.sharifml.ir/), instructed by Dr. Ali Sharifi Zarchi.
