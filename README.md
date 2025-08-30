@@ -57,7 +57,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 3️⃣ Ensemble Learning  
 </details>
 
-<a href="./Section01_Supervised_Learning/"><img src="https://img.shields.io/badge/Section01-Coming_Soon-6563FF?logo=startpage&logoColor=6563FF"></a>
+<a href="#"><img src="https://img.shields.io/badge/Section01-Coming_Soon-6563FF?logo=startpage&logoColor=6563FF"></a>
 
 <details>
 <summary><h3>Section02 — Unsupervised Learning</h3></summary>
@@ -67,7 +67,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 1️⃣ Dimensionality Reduction  
 </details>
 
-<a href="./Section02_Unsupervised_Learning/"><img src="https://img.shields.io/badge/Section02-Coming_Soon-FFFFFF?logo=thestorygraph&logoColor=FFFFFF"></a>
+<a href="#"><img src="https://img.shields.io/badge/Section02-Coming_Soon-FFFFFF?logo=thestorygraph&logoColor=FFFFFF"></a>
 
 <details>
 <summary><h3>Section03 — Reinforcement Learning</h3></summary>
@@ -77,7 +77,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 1️⃣ Q-Learning  
 </details>
 
-<a href="./Section03_Reinforcement_Learning/"><img src="https://img.shields.io/badge/Section03-Coming_Soon-81B64C?logo=chess.com&logoColor=81B64C"></a>
+<a href="#"><img src="https://img.shields.io/badge/Section03-Coming_Soon-81B64C?logo=chess.com&logoColor=81B64C"></a>
 
 <details>
 <summary><h3>Section04 — Neural Networks</h3></summary>
@@ -86,32 +86,39 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 0️⃣ Neural Networks  
 </details>
 
-<a href="./Section04_Neural_Networks/"><img src="https://img.shields.io/badge/Section04-Coming_Soon-0F2B46?logo=deepl&logoColor=0F2B46"></a>
+<a href="#"><img src="https://img.shields.io/badge/Section04-Coming_Soon-0F2B46?logo=deepl&logoColor=0F2B46"></a>
 
 <details>
 <summary><h3>Section05 — Computer Vision</h3></summary>
-<em>Make machines see with CNNs and beyond</em>
+<em>Make machines own visual intelligence</em>
 
 - 0️⃣ Convolutional Neural Networks  
 - 1️⃣ Deep CNN Architectures  
 - 2️⃣ Autoencoders  
 </details>
 
-<a href="./Section05_Computer_Vision/"><img src="https://img.shields.io/badge/Section05-Coming_Soon-007ACC?logo=ariakit&logoColor=007ACC"></a>
+<a href="#"><img src="https://img.shields.io/badge/Section05-Coming_Soon-007ACC?logo=ariakit&logoColor=007ACC"></a>
 
 <details>
 <summary><h3>Section06 — Natural Language Processing</h3></summary>
-<em>🚧 Coming soon — teaching machines to understand text</em>
+<em>Teaching machines to understand language</em>
+  
+- 0️⃣ Word Embedding 
+- 1️⃣ BERT
+- 2️⃣ Attention 
 </details>
 
-<a href="./Section06_Natural_Language_Processing/"><img src="https://img.shields.io/badge/Section06-Coming_Soon-EA4C89?logo=immersivetranslate&logoColor=EA4C89"></a>
+<a href="#"><img src="https://img.shields.io/badge/Section06-Coming_Soon-EA4C89?logo=immersivetranslate&logoColor=EA4C89"></a>
 
 <details>
 <summary><h3>Section07 — Contrastive Learning</h3></summary>
-<em>🚧 Coming soon — representation learning with contrast</em>
+<em>Representation learning with contrast</em>
+  
+- 0️⃣ Vision Transformers 
+- 1️⃣ Contrastive Language-Image Pre-Training
 </details>
 
-<a href="./Section07_Contrastive_Learning/"><img src="https://img.shields.io/badge/Section07-Coming_Soon-3CBDB1?logo=clyp&logoColor=3CBDB1"></a>
+<a href="#"><img src="https://img.shields.io/badge/Section07-Coming_Soon-3CBDB1?logo=clyp&logoColor=3CBDB1"></a>
 
 ---
 
