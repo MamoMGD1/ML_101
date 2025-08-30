@@ -1,63 +1,101 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/header.png" style="width: 100vw;">
-</div>
 
-<div style="background-color:#0d1117; padding:30px; border-radius:12px;">
- 
-<h1 style="color:#ffcc00; text-align:center; font-size:42px; margin-bottom:10px;">
-✨ ML_101 — Open Learning Journey ✨
-</h1>
-
-<p style="color:#b3b3b3; text-align:center; font-size:16px; margin-top:0;">
-An open-source, beginner-friendly course to learn Machine Learning step by step — with math, intuition, and code.
-</p>
+<img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/header.png" width="100%" style="border-radius:12px;"/>
 
 ---
 
-<h2 style="color:#4db8ff; text-align:center; margin-top:30px;">🚀 What You'll Learn</h2>
+# 📘 ML_101 — Open Learning Journey
+<h4 style="color:#999">Math-first, beginner-friendly, open to contributions</h4>
 
-<ul style="color:#cccccc; font-size:15px; line-height:1.6;">
-  <li>Mathematical foundations of ML (linear algebra, probability, calculus)</li>
-  <li>Neural networks from scratch, without skipping intuition</li>
-  <li>Modern deep learning architectures and their real-world uses</li>
-  <li>Hands-on coding with clear explanations</li>
-</ul>
-
----
-
-<h2 style="color:#4db8ff; text-align:center; margin-top:30px;">📖 Roadmap</h2>
-
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap; margin-top:20px;">
-
-<div style="background:#161b22; padding:20px; border-radius:10px; width:250px;">
-  <h3 style="color:#ffcc00; text-align:center;">Step 1</h3>
-  <p style="color:#aaa; text-align:center;">Math Foundations</p>
-</div>
-
-<div style="background:#161b22; padding:20px; border-radius:10px; width:250px;">
-  <h3 style="color:#ffcc00; text-align:center;">Step 2</h3>
-  <p style="color:#aaa; text-align:center;">Intro to Machine Learning</p>
-</div>
-
-<div style="background:#161b22; padding:20px; border-radius:10px; width:250px;">
-  <h3 style="color:#ffcc00; text-align:center;">Step 3</h3>
-  <p style="color:#aaa; text-align:center;">Neural Networks & Deep Learning</p>
-</div>
+[![colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/MamoMGD1/ML_101)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#-contributing)
 
 </div>
 
 ---
 
-<h2 style="color:#4db8ff; text-align:center; margin-top:30px;">🤝 Contributing</h2>
+## ⚡ Quick Start  
 
-<p style="color:#cccccc; font-size:15px; line-height:1.6; text-align:center;">
-We welcome contributions! Whether it’s fixing typos, improving explanations, or adding new content — every bit helps.
-</p>
+```bash
+# Clone repository
+git clone https://github.com/MamoMGD1/ML_101.git
+cd ML_101
+````
+
+Open any section in **Google Colab** (badges are available in each sub-README).
 
 ---
 
-<footer style="text-align:center; margin-top:40px; color:#888; font-size:13px;">
-Built with ❤️ by the community | Open for contributions
+## 🗺️ Roadmap
+
+Here’s the full learning path for **ML\_101**.
+Click on a section to expand and see the chapters it contains.
+
+<details>
+<summary><b>📐 Math Foundations</b> — <a href="./01_Math_Foundations/">Go to Section</a></summary>
+
+* Linear Algebra Essentials
+* Probability & Statistics Basics
+* Calculus for Machine Learning
+* Optimization Foundations
+
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning Basics</b> — <a href="./02_ML_Basics/">Go to Section</a></summary>
+
+* Introduction to ML
+* Supervised vs Unsupervised
+* Loss Functions & Metrics
+* Training & Evaluation
+
+</details>
+
+<details>
+<summary><b>🧠 Neural Networks</b> — <a href="./03_Neural_Networks/">Go to Section</a></summary>
+
+* Perceptrons & MLPs
+* Backpropagation
+* Activation Functions
+* Regularization
+
+</details>
+
+<details>
+<summary><b>⚡ Deep Learning & Architectures</b> — <a href="./04_Deep_Learning/">Go to Section</a></summary>
+
+* CNNs
+* RNNs & LSTMs
+* Transformers
+* Modern Architectures
+
+</details>
+
+<details>
+<summary><b>🛠️ Projects & Applications</b> — <a href="./05_Projects/">Go to Section</a></summary>
+
+* Image Classification
+* Text Classification
+* NLP Pipelines
+* Mini-Capstone Projects
+
+</details>
+
+---
+
+## 🤝 Contributing
+
+We ❤️ contributions! You can help by:
+
+* Fixing typos, grammar, or explanations
+* Adding intuitive illustrations or examples
+* Extending exercises or project ideas
+
+Check out the [Contributing Guide](./CONTRIBUTING.md) for more details.
+
+---
+
+<footer align="center" style="margin-top:30px; font-size:13px; color:#666;">
+Built with ❤️ by the community | Open Source Forever 🌍  
 </footer>
-
-</div>
