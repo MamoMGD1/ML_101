@@ -41,15 +41,15 @@ Explore the full learning journey of **ML_101**. Each section is designed to tak
 <!-- Section 00: Building Foundations -->
 <div style="border-radius:12px; background:#f0f4ff; padding:15px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 <details>
-  <summary><h3>📚 00 — Building Foundations</h3></summary>
+<summary><h3>📚 Section00 — Building Foundations</h3></summary>
 <em>Get your math & data skills ready</em>
 <ul>
-<li>00 — Statistics for ML</li>
-<li>01 — Linear Algebra</li>
-<li>02 — Data Preprocessing</li>
+<li>Chapter00 — Statistics for ML</li>
+<li>Chapter01 — Linear Algebra</li>
+<li>Chapter02 — Data Preprocessing</li>
 </ul>
+<a href="./Section00_Building_Foundations/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </details>
-<a href="./00_Building_Foundations/" style="text-decoration:none; font-weight:bold; color:#4285F4;">Open Section</a>
 </div>
 
 <!-- Section 01: Supervised Learning -->
