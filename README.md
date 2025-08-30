@@ -39,8 +39,8 @@ Open any section in **Google Colab** (badges are available in each sub-README).
 Here’s the full learning path for **ML_101**. Click a section to expand and see the chapters it contains.
 
 <details>
-<summary><h3>📚 Section00 — Building Foundations</h3></summary>
-<em>Get your math & data skills ready</em>
+<summary><strong>📚 Section00 — Building Foundations</strong></summary>
+<p>Get your math & data skills ready</p>
 <ol>
 <li>Statistics for ML</li>
 <li>Linear Algebra</li>
@@ -50,8 +50,8 @@ Here’s the full learning path for **ML_101**. Click a section to expand and se
 </details>
 
 <details>
-<summary><h3>🤖 Section01 — Supervised Learning</h3></summary>
-<em>Learn regression, classification & practical algorithms</em>
+<summary><strong>🤖 Section01 — Supervised Learning</strong></summary>
+<p>Learn regression, classification & practical algorithms</p>
 <ol>
 <li>Regression</li>
 <li>Classification</li>
