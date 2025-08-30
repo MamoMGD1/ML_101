@@ -36,10 +36,8 @@ Open any section in **Google Colab** (badges are available in each sub-README).
 
 Your **AI learning journey** starts here. Each section is a milestone, packed with lessons and hands-on practice.  
 
----
-
 <details>
-<summary><h3>📚 Section00 — Building Foundations &nbsp; <a href="./Section00_Building_Foundations/"><img src="https://img.shields.io/badge/Open-Section00-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a></h3></summary>
+<summary><h3>📚 Section00 — Building Foundations &nbsp;</h3></summary>
 <em>Get your math & data skills ready</em>
 
 - 0️⃣ Statistics for ML  
@@ -47,7 +45,8 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 2️⃣ Data Preprocessing  
 
 </details>
-
+ <a href="./Section00_Building_Foundations/"><img src="https://img.shields.io/badge/Open-Section00-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a>
+ 
 <details>
 <summary><h3>🤖 Section01 — Supervised Learning &nbsp; <a href="./Section01_Supervised_Learning/"><img src="https://img.shields.io/badge/Open-Section01-34A853?style=flat-square&logo=jupyter&logoColor=white"></a></h3></summary>
 <em>Learn how to predict outcomes from labeled data</em>
