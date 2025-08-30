@@ -43,9 +43,9 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 0️⃣ Statistics for ML  
 - 1️⃣ Linear Algebra  
 - 2️⃣ Data Preprocessing  
+</details>
 
 <a href="./Section00_Building_Foundations/"><img src="https://img.shields.io/badge/Section00-Open-4285F4?logo=googleearthengine"></a>
-</details>
 
 <details>
 <summary><h3>Section01 — Supervised Learning</h3></summary>
@@ -55,9 +55,9 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 1️⃣ Classification  
 - 2️⃣ K-Nearest Neighbors  
 - 3️⃣ Ensemble Learning  
-
-<a href="./Section01_Supervised_Learning/"><img src="https://img.shields.io/badge/Section01-Open-261C29?logo=matternet"></a>
 </details>
+
+<a href="./Section01_Supervised_Learning/"><img src="https://img.shields.io/badge/Section01-Open-6563FF?logo=startpage"></a>
 
 <details>
 <summary><h3>Section02 — Unsupervised Learning</h3></summary>
@@ -66,7 +66,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 0️⃣ Clustering  
 - 1️⃣ Dimensionality Reduction  
 
-<a href="./Section02_Unsupervised_Learning/"><img src="https://img.shields.io/badge/Section02-Open-F9AB00?style=flat-square&logo=python"></a>
+<a href="./Section02_Unsupervised_Learning/"><img src="https://img.shields.io/badge/Section02-Open-?logo=python"></a>
 </details>
 
 <details>
@@ -85,7 +85,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 
 - 0️⃣ Neural Networks  
 
-<a href="./Section04_Neural_Networks/"><img src="https://img.shields.io/badge/Section04-Open-9C27B0?style=flat-square&logo=tensorflow"></a>
+<a href="./Section04_Neural_Networks/"><img src="https://img.shields.io/badge/Section04-Open-000000?logo=actix"></a>
 </details>
 
 <details>
@@ -96,7 +96,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 1️⃣ Deep CNN Architectures  
 - 2️⃣ Autoencoders  
 
-<a href="./Section05_Computer_Vision/"><img src="https://img.shields.io/badge/Section05-Open-4285F4?style=flat-square&logo=opencv"></a>
+<a href="./Section05_Computer_Vision/"><img src="https://img.shields.io/badge/Section05-Open-000000?logo=outline"></a>
 </details>
 
 <details>
