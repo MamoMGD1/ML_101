@@ -2,11 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/header.png" width="100%" style="border-radius:12px;"/>
 
-<strong style="color:#999">An Integrated Series of Open-Source ML Notebooks With Code</strong>
+<strong style="color:#999; margin:15px">An Integrated Series of Open-Source ML Notebooks With Code</strong>
 
+<div style="display:flex; width:50%; align-items:center">
 [![Colab](https://img.shields.io/badge/Colab-Launch-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg?logo=opensourcehardware&logoColor=brightgreen)](./LICENSE.md)
 [![Roadmap](https://img.shields.io/badge/Roadmap-Explore-4285F4?logo=googlemaps)](#%EF%B8%8F-roadmap)
+</div>
 
 </div>
 
