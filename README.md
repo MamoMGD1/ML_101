@@ -119,8 +119,8 @@ Whether you’re fixing a typo, refining an explanation, adding examples, or con
 Check out our [Contributing Guide](./CONTRIBUTING.md) for full details on how to get started.  
 Together, let’s make ML_101 the most approachable and hands-on Machine Learning resource for curious minds 🚀  
 
----
+<div align="center">
 
-<footer align="center" style="margin-top:30px; font-size:13px; color:#666;">
-Built with ❤️ by Mohammad Mohammadi | Open Source Forever 🌍  
-</footer>
+<img src="https://raw.githubusercontent.com/MamoMGD1/ML_101/main/images/footer.png" width="100%" style="border-radius:12px;"/>
+
+</div>
