@@ -32,6 +32,16 @@ Open any section in **Google Colab** (badges are available in each sub-README).
 
 ---
 
+## 🔭 **Prerequisites**  
+
+Before diving into *ML 101*, it’s recommended that learners have a basic understanding of the following:  
+
+- 🐍 **Python Programming** — Writing simple programs, using functions, classes, and working with `Numpy`, `Pandas`, and `Matplotlib` libraries.  
+- 📐 **High School Mathematics** — Algebra, functions, and basic probability concepts.  
+- ⚙️ **Algorithms & Logic** — Understanding how step-by-step procedures solve problems.  
+
+---
+
 ## 🛣️ Roadmap  
 
 Your **AI learning journey** starts here. Each section is a milestone, packed with lessons and hands-on practice.  
