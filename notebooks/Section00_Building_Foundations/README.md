@@ -16,7 +16,7 @@ Understanding data begins with statistics. In this chapter, we’ll explore desc
 
 ## 1️⃣ Linear Algebra  
 
-At the heart of every ML model lies linear algebra. This chapter walks you through vectors, matrices, transformations, and operations that power algorithms from regression to deep learning. It’s the mathematics that gives structure to data and makes model computations possible.  
+At the heart of every ML model lies linear algebra. This chapter walks you through vectors, matrices, transformations, and operations that power algorithms from neural networks to CNNs and NLP. It’s the mathematics that gives structure to data and makes model computations possible.  
 
 [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section00_Building_Foundations/Chapter01_Linear_Algebra.ipynb) [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section00_Building_Foundations/Chapter01_Linear_Algebra.ipynb)  
 
