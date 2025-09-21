@@ -67,7 +67,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 3️⃣ Ensemble Learning  
 </details>
 
-<a href="#"><img src="https://img.shields.io/badge/Section01-Coming_Soon-6563FF?logo=startpage&logoColor=6563FF"></a>
+<a href="./notebooks/Section01_Supervised_Learning/"><img src="https://img.shields.io/badge/Section01-Open-6563FF?logo=startpage&logoColor=6563FF"></a>
 
 <details>
 <summary><h3>Section02 — Unsupervised Learning</h3></summary>
