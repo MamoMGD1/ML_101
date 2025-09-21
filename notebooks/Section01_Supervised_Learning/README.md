@@ -5,7 +5,6 @@
 Now that our data is prepared and ready, it’s time to teach machines how to actually **learn from it**.  
 Supervised Learning is where machine learning starts to feel alive: instead of just organizing and cleaning, we now **train models to map inputs to outputs**.  
 
-Think of it as the bridge between raw data and real-world intelligence.  
 Skipping this step is like collecting thousands of books but never learning how to read them. By mastering supervised learning, you’ll unlock the power to predict, classify, and generalize patterns from past data into the future.  
 
 This section doesn’t just show you algorithms — it builds your understanding of how machines make decisions, what errors mean, and how models adapt to uncertainty. These are the foundations of modern AI.  
@@ -40,7 +39,7 @@ That’s the idea behind k-Nearest Neighbors (k-NN). This intuitive algorithm do
 
 ## 3️⃣ Ensemble Learning  
 
-One model can be powerful, but **many models working together** can be unstoppable.  
+One model can be powerful, but do you know what is more powerful? **Many models working together**.  
 Ensemble Learning combines multiple weak learners into a strong one — reducing variance, correcting mistakes, and pushing accuracy to new levels. In this chapter, you’ll learn how techniques like bagging and boosting make models more robust and reliable.  
 
 [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section01_Supervised_Learning/Chapter03_Ensemble_Learning.ipynb) [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section01_Supervised_Learning/Chapter03_Ensemble_Learning.ipynb)  
