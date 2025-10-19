@@ -77,7 +77,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 1️⃣ Dimensionality Reduction  
 </details>
 
-<a href="#"><img src="https://img.shields.io/badge/Section02-Open-FFFFFF?logo=thestorygraph&logoColor=FFFFFF"></a>
+<a href="./notebooks/Section02_Unsupervised_Learning/"><img src="https://img.shields.io/badge/Section02-Open-FFFFFF?logo=thestorygraph&logoColor=FFFFFF"></a>
 
 <details>
 <summary><h3>Section03 — Reinforcement Learning</h3></summary>
