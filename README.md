@@ -87,7 +87,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 1️⃣ Q-Learning  
 </details>
 
-<a href="#"><img src="https://img.shields.io/badge/Section03-Coming_Soon-81B64C?logo=chess.com&logoColor=81B64C"></a>
+<a href=".notebooks/Section03_Reinforcement_Learning/"><img src="https://img.shields.io/badge/Section03-Open-81B64C?logo=chess.com&logoColor=81B64C"></a>
 
 <details>
 <summary><h3>Section04 — Neural Networks</h3></summary>
