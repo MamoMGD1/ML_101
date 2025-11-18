@@ -96,7 +96,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 0️⃣ Neural Networks  
 </details>
 
-<a href="#"><img src="https://img.shields.io/badge/Section04-Coming_Soon-0F2B46?logo=deepl&logoColor=0F2B46"></a>
+<a href="./notebooks/Section04_Neural_Networks/"><img src="https://img.shields.io/badge/Section04-Open-0F2B46?logo=deepl&logoColor=0F2B46"></a>
 
 <details>
 <summary><h3>Section05 — Computer Vision</h3></summary>
