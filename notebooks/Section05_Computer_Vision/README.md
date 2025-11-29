@@ -13,7 +13,7 @@ This chapter introduces the core building block of modern vision systems: the **
 We break down why dense networks struggle with images and how CNNs leverage local spatial patterns, weight sharing, channels, padding, and pooling to efficiently learn visual features.  
 You will also implement CNNs **from scratch** and train them on **MNIST** and **Fashion-MNIST**.
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter00_Convolutional_Neural_Networks.ipynb)  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter00_Convolutional_Neural_Networks.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter00_Convolutional_Neural_Networks.ipynb)  [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter00_Convolutional_Neural_Networks.ipynb)
 
 ---
 
@@ -22,7 +22,7 @@ This chapter moves beyond basic CNNs into **state-of-the-art architectures** tha
 You will study how **AlexNet** revolutionized ImageNet performance, why deeper networks struggled with vanishing gradients, and how **ResNet** solved this through residual connections.  
 We examine architectural design, the intuition behind skip connections, and recreate simplified versions of these models.
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)  [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)
 
 ---
 
@@ -31,4 +31,4 @@ In this chapter, we explore **Autoencoders**, neural networks designed to compre
 You will understand how encoders learn low-dimensional latent representations, how decoders rebuild the original image, and why Autoencoders are powerful tools for **denoising**, **dimensionality reduction**, **image coloring**, and **generative AI**.  
 Hands-on experiments include building fully-connected and convolutional autoencoders and applying them to some cool projects.
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter02_Autoencoders.ipynb)  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter02_Autoencoders.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter02_Autoencoders.ipynb)  [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter02_Autoencoders.ipynb)
