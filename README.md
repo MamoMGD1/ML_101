@@ -107,7 +107,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 2️⃣ Autoencoders  
 </details>
 
-<a href="#"><img src="https://img.shields.io/badge/Section05-Coming_Soon-007ACC?logo=ariakit&logoColor=007ACC"></a>
+<a href="./notebooks/Section05_Computer_Vision/"><img src="https://img.shields.io/badge/Section05-Open-007ACC?logo=ariakit&logoColor=007ACC"></a>
 
 <details>
 <summary><h3>Section06 — Natural Language Processing</h3></summary>
