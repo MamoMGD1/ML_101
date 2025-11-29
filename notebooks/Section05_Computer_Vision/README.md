@@ -14,8 +14,7 @@ We break down why dense networks struggle with images and how CNNs leverage loca
 You will also implement CNNs **from scratch** and train them on **MNIST** and **Fashion-MNIST**.
 
 **Open the Notebook:**  
-[![Open In Colab](https://colab.research.googleusercontent.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter00_Convolutional_Neural_Networks.ipynb)  
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter00_Convolutional_Neural_Networks.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter00_Convolutional_Neural_Networks.ipynb)  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter00_Convolutional_Neural_Networks.ipynb)
 
 ---
 
@@ -25,8 +24,7 @@ You will study how **AlexNet** revolutionized ImageNet performance, why deeper n
 We examine architectural design, the intuition behind skip connections, and recreate simplified versions of these models.
 
 **Open the Notebook:**  
-[![Open In Colab](https://colab.research.googleusercontent.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)  
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)
 
 ---
 
@@ -36,5 +34,4 @@ You will understand how encoders learn low-dimensional latent representations, h
 Hands-on experiments include building fully-connected and convolutional autoencoders and applying them to some cool projects.
 
 **Open the Notebook:**  
-[![Open In Colab](https://colab.research.googleusercontent.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter02_Autoencoders.ipynb)  
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter02_Autoencoders.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter02_Autoencoders.ipynb)  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter02_Autoencoders.ipynb)
