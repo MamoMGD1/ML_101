@@ -22,7 +22,7 @@ This chapter moves beyond basic CNNs into **state-of-the-art architectures** tha
 You will study how **AlexNet** revolutionized ImageNet performance, why deeper networks struggled with vanishing gradients, and how **ResNet** solved this through residual connections.  
 We examine architectural design, the intuition behind skip connections, and recreate simplified versions of these models.
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)  [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)  [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section05_Computer_Vision/Chapter01_Deep_CNN_Architectures.ipynb)
 
 ---
 
