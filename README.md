@@ -118,7 +118,7 @@ Your **AI learning journey** starts here. Each section is a milestone, packed wi
 - 2️⃣ Attention 
 </details>
 
-<a href="#"><img src="https://img.shields.io/badge/Section06-Coming_Soon-EA4C89?logo=immersivetranslate&logoColor=EA4C89"></a>
+<a href="./notebooks/Section06_Natural_Language_Processing"><img src="https://img.shields.io/badge/Section06-Open-EA4C89?logo=immersivetranslate&logoColor=EA4C89"></a>
 
 <details>
 <summary><h3>Section07 — Contrastive Learning</h3></summary>
