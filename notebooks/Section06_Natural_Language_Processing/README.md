@@ -15,8 +15,7 @@ This section builds the conceptual and mathematical backbone behind modern langu
 Before machines can understand language, they must first **represent words numerically**.  
 In this chapter, you’ll learn how discrete symbols are embedded into continuous vector spaces using techniques like Word2Vec. These embeddings capture semantic relationships, similarities, and structure — laying the groundwork for all modern NLP models.  
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter00_Word_Embedding.ipynb)  
-[![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter00_Word_Embedding.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter00_Word_Embedding.ipynb)  [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter00_Word_Embedding.ipynb)
 
 ---
 
@@ -25,8 +24,7 @@ In this chapter, you’ll learn how discrete symbols are embedded into continuou
 Words do not have fixed meanings — **context gives them meaning**.  
 This chapter explores why earlier approaches like Word2Vec and RNNs struggled with context and long-range dependencies, and how the Attention mechanism revolutionized NLP. You’ll dive into self-attention, multi-head attention, and the Transformer architecture that reshaped the entire field.  
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter01_Attention_Is_All_You_Need.ipynb)  
-[![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter01_Attention_Is_All_You_Need.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter01_Attention_Is_All_You_Need.ipynb)  [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter01_Attention_Is_All_You_Need.ipynb)
 
 ---
 
@@ -35,5 +33,4 @@ This chapter explores why earlier approaches like Word2Vec and RNNs struggled wi
 Transformers unlocked scale — and scale unlocked intelligence.  
 In this chapter, you’ll study how architectures like BERT and GPT extend the Transformer to learn language at unprecedented levels. From bidirectional understanding to generative modeling, this chapter explains how modern Large Language Models are trained, structured, and why they generalize so effectively.  
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter02_Large_Language_Models.ipynb)  
-[![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter02_Large_Language_Models.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter02_Large_Language_Models.ipynb)  [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/kernels/welcome?src=https://github.com/MamoMGD1/ML_101/blob/main/notebooks/Section06_Natural_Language_Processing/Chapter02_Large_Language_Models.ipynb)
